@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+.pnpm
+
+# builds
+frontend/.next
+frontend/out
+backend/__pycache__
+*.pyc
+.env
+.env.*
